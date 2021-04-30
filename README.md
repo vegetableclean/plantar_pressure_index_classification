@@ -15,7 +15,7 @@ python3 , anaconda , cuda 9
 
 [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
 
-* datacollect2
+* datacollect2.ipynb 
 * 隨機取樣照片的函式庫.ipynb 
 * finetuning_squeeze.ipynb
 ### Content
