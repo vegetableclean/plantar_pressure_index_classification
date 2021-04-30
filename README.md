@@ -8,7 +8,7 @@
 * Project status: current state I am tring to do image classification to classify the different arch index
 
 ## Installation
-python3 anaconda cuda 9
+python3 , anaconda , cuda 9
 
 ## Code
 
