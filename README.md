@@ -25,4 +25,4 @@ Thus, how we do in the project is deserved to look and experiment.
 ![alt text](https://github.com/vegetableclean/plantar-pressure/blob/main/1_12_16.jpg_18_69_111.jpg.jpg)
 ### Requirements
 
-requirement.txt
+* requirement.txt
