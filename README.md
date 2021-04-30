@@ -1,4 +1,4 @@
-# Plantar_pressure_classification / medical image analysis
+# Plantar_pressure_index_classification / medical image analysis
 
 
 
