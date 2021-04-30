@@ -1,4 +1,4 @@
-# Plantar-pressure / medical image analysis
+# Plantar_pressure / medical image analysis
 
 
 
