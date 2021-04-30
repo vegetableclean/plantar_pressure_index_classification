@@ -5,6 +5,7 @@
 ## About / Synopsis
 
 * The project is about medical image analysis with plantar pressure
+* Now we have about 200 volunteers plantar pressure data
 * Project status: current state I am tring to do image classification to classify the different arch index
 
 ## Installation
