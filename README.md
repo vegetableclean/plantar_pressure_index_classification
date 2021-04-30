@@ -19,7 +19,7 @@ python3 , anaconda , cuda 9
 * 隨機取樣照片的函式庫.ipynb 
 * finetuning_squeeze.ipynb
 ### Content
-we have three important part here, process the data, image augmentation and deeplearning for classification.
+We have three important part here, process the data, image augmentation and deeplearning for classification.
 Since the medical image is limited, we have to figure out a way to increase our current data to have a better accuracy for model learning.
 Thus, how we do in the project is deserved to look and experiment.
 ### Requirements
