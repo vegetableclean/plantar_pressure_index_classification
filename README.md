@@ -14,14 +14,13 @@ python3 anaconda cuda 9
 
 [![Build Status](https://qa.nuxeo.org/jenkins/buildStatus/icon?job=/nuxeo/addons_nuxeo-sample-project-master)](https://qa.nuxeo.org/jenkins/job/nuxeo/job/addons_nuxeo-sample-project-master/)
 
-* "datacollect2" file is how I do after process my raw data which I tranform the raw data to the image type which can be achieved from 
-"預處理.ipynb".
-* "隨機取樣照片的函式庫.ipynb" is the way how I increase the number of my data by using permutation to let three channel have different image but same category.
-* "finetuning_squeeze.ipynb" is how I do for model training.
+* datacollect2
+* 隨機取樣照片的函式庫.ipynb 
+* finetuning_squeeze.ipynb
 ### Content
-
-Description, sub-modules organization...
-
+we have three important part here, process the data, image augmentation and deeplearning for classification.
+Since the medical image is limited, we have to figure a way to increase our current data to have a better accuracy for model learning.
+Thus, how we do in the project is deserved to look and experiment.
 ### Requirements
 
 requirement.txt
